@@ -20,7 +20,7 @@ Python version >=3.7,<3.10 required. 3.8 is used in this example.
 4. `limioptic` or `poetry run limioptic`
 
 ## globally (the messy way)
-1. `python3.8 -m pip install limioptic`
+1. `python3.8 -m pip install limioptic --prefer-binary`
 2. `limioptic` or `python -m limioptic`
 
 you can also run limioptic as a module
